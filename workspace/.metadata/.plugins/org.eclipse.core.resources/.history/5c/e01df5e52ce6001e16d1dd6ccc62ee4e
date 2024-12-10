@@ -1,0 +1,27 @@
+package excepcionesFechas;
+
+import java.util.Scanner;
+
+public class Principal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		Scanner sc = new Scanner (System.in);
+		
+		int tempC;
+		String aux;
+		boolean sinError=false;
+		
+		System.out.println("-----------------------------------------------------------------------------------------------------");
+		System.out.println("¡BIENVENIDO AL EJEMPLO DE EXCEPCIONES CON FECHAS!");
+		System.out.println("-----------------------------------------------------------------------------------------------------");
+		
+		
+		
+		
+		
+		
+	}
+
+}

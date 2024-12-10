@@ -1,0 +1,11 @@
+package excepcionesFechas;
+
+import java.time.LocalDate;
+
+public class Reserva {
+
+	private LocalDate hoy;
+	
+	
+	
+}

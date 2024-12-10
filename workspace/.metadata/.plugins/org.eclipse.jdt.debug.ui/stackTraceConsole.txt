@@ -1,0 +1,9 @@
+lista.add(new Persona ("Yuri", "Lowell", "Lowell", "jenierdrh", "ebdfv"));
+		lista.add(new Persona ("Boruto", "Lowell", "Lowell", "jenierdrh", "ebdfv"));
+		lista.add(new Persona ("Gojo", "Lowell", "Lowell", "jenierdrh", "ebdfv"));
+		lista.add(new Persona ("Lucci", "Lowell", "Lowell", "jenierdrh", "ebdfv"));
+		lista.add(new Persona ("Rizzo", "Lowell", "Lowell", "jenierdrh", "ebdfv"));
+		lista.add(new Persona ("Karis", "Lowell", "Lowell", "jenierdrh", "ebdfv"));
+		lista.add(new Persona ("Junpei", "Lowell", "Lowell", "jenierdrh", "ebdfv"));
+		lista.add(new Persona ("Txutxunpo", "Lowell", "Lowell", "jenierdrh", "ebdfv"));
+		lista.add(new Persona ("KK", "Lowell", "Lowell", "jenierdrh", "ebdfv"));

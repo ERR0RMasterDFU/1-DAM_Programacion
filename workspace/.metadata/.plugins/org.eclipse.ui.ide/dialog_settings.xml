@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\ikern\Escritorio\1º DAM\Programación\workspace\EjemplosTema6"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\Programación\workspace\EjercicioUD5TipoExamen2"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\Programación\workspace\Ejercicio4Tema4"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\Programación\workspace\TrabajoFallaUrtiagaDavidUD5"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\Programación\workspace\EjerciciosTema5Parte1"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\Programación\workspace\EjerciciosTema5"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjerciciosTema5Parte1"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjemplosTema5"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjerciciosUD4TipoExamenDavidFallaUrtiaga"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjerciciosUD4Parte2DavidFallaUrtiaga"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjerciciosUD4Parte1DavidFallaUrtiaga"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjerciciosUD3Parte2DavidFallaUrtiaga"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjerciciosPolimorfismo"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjercicioUD4Parte1LucasFalla"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjemploOperaciones"/>
+			<item value="C:\Users\ikern\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjemplosUD3"/>
+			<item value="C:\Users\ikern\OneDrive\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\ejerciciosUD2Parte2DavidFalla"/>
+			<item value="C:\Users\ikern\OneDrive\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjercicioUD2Parte1DavidFalla"/>
+			<item value="C:\Users\ikern\OneDrive\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjercicioUD1Parte3DavidFalla"/>
+			<item value="C:\Users\ikern\OneDrive\Escritorio\1º DAM\DAVID FALLA URTIAGA\Programación\workspace\EjercicioUD1Parte2DavidFalla"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
